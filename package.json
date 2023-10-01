@@ -1,10 +1,10 @@
 {
-  "name": "morethan-log",
+  "name": "devseopchan-log",
   "version": "1.3.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/morethanmin/morethan-log.git"
+    "url": "https://github.com/seopchan/devseopchan-log.git"
   },
   "scripts": {
     "dev": "next dev",
